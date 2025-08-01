@@ -4,16 +4,16 @@ Welcome to my GitHub profile!
 
 ## 🧑‍💻 About Me
 
-- 🔭 I'm passionate about **technology, automation, and  **
+- 🔭 I'm passionate about **technology, automation **
 - 💡 Constantly exploring **new tools and tech stacks**
-- 🚀 Currently working on projects involving  **Python  
+- 🚀 Currently working on projects involving    
 - 🧠 Always learning — especially in **finance, data analysis**, and **real-time systems**
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, JavaScript, HTML/CSS, 
+- **Languages:** Python 
 - **Frameworks:** Flask, React (learning), Bootstrap
-- **Tools:** Git, VS Code,  API
+- **Tools:** Git, 
 - **Other Interests:** API automation
 
 ## 📈 GitHub Stats
