@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Sanjay Chandrakar
 
-<!--
-**sanjaychandrakar942-eng/sanjaychandrakar942-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm passionate about **technology, automation, and algorithmic trading**
+- 💡 Constantly exploring **new tools and tech stacks**
+- 🚀 Currently working on projects involving **Pine Script**, **Python (Flask)**, and **Trading APIs**
+- 🧠 Always learning — especially in **finance, data analysis**, and **real-time systems**
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, JavaScript, HTML/CSS, Pine Script
+- **Frameworks:** Flask, React (learning), Bootstrap
+- **Tools:** Git, VS Code, Postman, TradingView, Dhan API
+- **Other Interests:** Algo trading, backtesting strategies, API automation
+
+## 📈 GitHub Stats
+
+![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjaychandrakar&show_icons=true&theme=tokyonight)
+
+## 📬 Connect with Me
+
+- ✉️ Email: *[optional - add your email if you want]*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) *(replace with your link)*
+- 🌐 [Portfolio or Blog](https://yourwebsite.com) *(optional)*
+
+---
+
+Thanks for stopping by! ⭐
+
