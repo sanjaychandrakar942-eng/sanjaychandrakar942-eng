@@ -4,17 +4,17 @@ Welcome to my GitHub profile!
 
 ## 🧑‍💻 About Me
 
-- 🔭 I'm passionate about **technology, automation, and algorithmic trading**
+- 🔭 I'm passionate about **technology, automation, and  **
 - 💡 Constantly exploring **new tools and tech stacks**
-- 🚀 Currently working on projects involving **Pine Script**, **Python (Flask)**, and **Trading APIs**
+- 🚀 Currently working on projects involving  **Python  
 - 🧠 Always learning — especially in **finance, data analysis**, and **real-time systems**
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, JavaScript, HTML/CSS, Pine Script
+- **Languages:** Python, JavaScript, HTML/CSS, 
 - **Frameworks:** Flask, React (learning), Bootstrap
-- **Tools:** Git, VS Code, Postman, TradingView, Dhan API
-- **Other Interests:** Algo trading, backtesting strategies, API automation
+- **Tools:** Git, VS Code,  API
+- **Other Interests:** API automation
 
 ## 📈 GitHub Stats
 
